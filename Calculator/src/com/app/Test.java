@@ -9,6 +9,11 @@ public class Test {
 	public void subtraction(){
 		
 	}
+	
+	public void multiplication() {
+		
+		
+	}
 }
 	
 
